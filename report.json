@@ -1,0 +1,171 @@
+{
+  "aggregate": {
+    "counters": {
+      "vusers.created_by_name.0": 1200,
+      "vusers.created": 1200,
+      "http.requests": 1200,
+      "plugins.metrics-by-endpoint./contatos.errors.ECONNREFUSED": 1200,
+      "errors.ECONNREFUSED": 1200,
+      "vusers.failed": 1200
+    },
+    "rates": {
+      "http.request_rate": 20
+    },
+    "firstCounterAt": 1716247166307,
+    "lastCounterAt": 1716247226258,
+    "firstMetricAt": 1716247166307,
+    "lastMetricAt": 1716247226258,
+    "period": 1716247220000,
+    "summaries": {},
+    "histograms": {}
+  },
+  "intermediate": [
+    {
+      "counters": {
+        "vusers.created_by_name.0": 74,
+        "vusers.created": 74,
+        "http.requests": 74,
+        "plugins.metrics-by-endpoint./contatos.errors.ECONNREFUSED": 74,
+        "errors.ECONNREFUSED": 74,
+        "vusers.failed": 74
+      },
+      "rates": {
+        "http.request_rate": 20
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1716247166307,
+      "lastCounterAt": 1716247169958,
+      "firstMetricAt": 1716247166307,
+      "lastMetricAt": 1716247169958,
+      "period": "1716247160000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 200,
+        "vusers.created": 200,
+        "http.requests": 200,
+        "plugins.metrics-by-endpoint./contatos.errors.ECONNREFUSED": 200,
+        "errors.ECONNREFUSED": 200,
+        "vusers.failed": 200
+      },
+      "rates": {
+        "http.request_rate": 20
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1716247170006,
+      "lastCounterAt": 1716247179958,
+      "firstMetricAt": 1716247170006,
+      "lastMetricAt": 1716247179958,
+      "period": "1716247170000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 200,
+        "vusers.created": 200,
+        "http.requests": 200,
+        "plugins.metrics-by-endpoint./contatos.errors.ECONNREFUSED": 200,
+        "errors.ECONNREFUSED": 200,
+        "vusers.failed": 200
+      },
+      "rates": {
+        "http.request_rate": 20
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1716247180006,
+      "lastCounterAt": 1716247189957,
+      "firstMetricAt": 1716247180006,
+      "lastMetricAt": 1716247189957,
+      "period": "1716247180000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 200,
+        "vusers.created": 200,
+        "http.requests": 200,
+        "plugins.metrics-by-endpoint./contatos.errors.ECONNREFUSED": 200,
+        "errors.ECONNREFUSED": 200,
+        "vusers.failed": 200
+      },
+      "rates": {
+        "http.request_rate": 20
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1716247190006,
+      "lastCounterAt": 1716247199958,
+      "firstMetricAt": 1716247190006,
+      "lastMetricAt": 1716247199958,
+      "period": "1716247190000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 200,
+        "vusers.created": 200,
+        "http.requests": 200,
+        "plugins.metrics-by-endpoint./contatos.errors.ECONNREFUSED": 200,
+        "errors.ECONNREFUSED": 200,
+        "vusers.failed": 200
+      },
+      "rates": {
+        "http.request_rate": 20
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1716247200006,
+      "lastCounterAt": 1716247209958,
+      "firstMetricAt": 1716247200006,
+      "lastMetricAt": 1716247209958,
+      "period": "1716247200000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 200,
+        "vusers.created": 200,
+        "http.requests": 200,
+        "plugins.metrics-by-endpoint./contatos.errors.ECONNREFUSED": 200,
+        "errors.ECONNREFUSED": 200,
+        "vusers.failed": 200
+      },
+      "rates": {
+        "http.request_rate": 20
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1716247210006,
+      "lastCounterAt": 1716247219958,
+      "firstMetricAt": 1716247210006,
+      "lastMetricAt": 1716247219958,
+      "period": "1716247210000",
+      "summaries": {},
+      "histograms": {}
+    },
+    {
+      "counters": {
+        "vusers.created_by_name.0": 126,
+        "vusers.created": 126,
+        "http.requests": 126,
+        "plugins.metrics-by-endpoint./contatos.errors.ECONNREFUSED": 126,
+        "errors.ECONNREFUSED": 126,
+        "vusers.failed": 126
+      },
+      "rates": {
+        "http.request_rate": 20
+      },
+      "http.request_rate": null,
+      "firstCounterAt": 1716247220006,
+      "lastCounterAt": 1716247226258,
+      "firstMetricAt": 1716247220006,
+      "lastMetricAt": 1716247226258,
+      "period": "1716247220000",
+      "summaries": {},
+      "histograms": {}
+    }
+  ]
+}
